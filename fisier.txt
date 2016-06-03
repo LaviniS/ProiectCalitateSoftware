@@ -1,0 +1,6 @@
+Cartea Istoria Romanilor are cota 4562, este din domeniul Istorie si  este scrisa de istorici contemporani
+ Cartea Muntii Carpati are cota 4568, este din domeniul Geografie si  este scrisa de Vlada Ionut
+ Cartea Pezii are cota 4572, este din domeniul Literaura si  este scrisa de Mihai Eminescu
+ Manuscrisul apartine autorului Mihai Eminescu si este din anul 1879
+ Monedele sunt de origine franceza si sunt din anul 1700
+ Monedele sunt de origine ceha si  sunt din anul 1800
