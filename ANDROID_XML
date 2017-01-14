@@ -1,0 +1,44 @@
+<biciclete>
+  <bicicleta id="3" marca="Cross" culoare="negru" data="01.01.2016 12:00">
+    <locatie>
+      <name>Piata Romana</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+  <bicicleta id="4" marca="Drag" culoare="rosie" data="01.01.2016 12:00">
+    <locatie>
+      <name>Piata Unirii</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+  <bicicleta id="5" marca="Cross" culoare="albastru" data="01.01.2016 12:00">
+    <locatie>
+      <name>Izvor</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+  <bicicleta id="6" marca="Kellys" culoare="negru" data="01.01.2016 12:00">
+    <locatie>
+      <name>Regie</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+  <bicicleta id="7" marca="Cervelo" culoare="argintiu" data="01.01.2016 12:00">
+    <locatie>
+      <name>Tei</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+  <bicicleta id="8" marca="Cervelo" culoare="argintiu" data="01.01.2016 12:00">
+    <locatie>
+      <name>Tei</name>
+      <lat>44.430607</lat>
+      <lng>26.097926</lng>
+    </locatie>
+  </bicicleta>
+</biciclete>
