@@ -1,9 +1,9 @@
 <jucatori>
-  <jucator id="101", name="xml a">
+  <jucator id="101" name="xml a">
     <pozitie>0</pozitie>
     <data>21.01.2001</data>
   </jucator>
-  <jucator id="102", name="xml b">
+  <jucator id="102" name="xml b">
     <pozitie>0</pozitie>
     <data>21.01.2001</data>
   </jucator>
