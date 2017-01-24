@@ -1,0 +1,16 @@
+[
+  {
+    "id": 99,
+    "nume": "json a",
+    "numar": 11,
+    "pozitie": 0,
+    "data": "21.01.2001"
+  },
+  {
+    "id": 100,
+    "nume": "json b",
+    "numar": 11,
+    "pozitie": 0,
+    "data": "21.01.2001"
+  }
+]
